@@ -1,0 +1,48 @@
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\DBPROJECT.exe.config
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\DBPROJECT.exe
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\DBPROJECT.pdb
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\Bunifu.UI.WinForms.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\CircularProgressBar.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\Newtonsoft.Json.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\RestSharp.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\bin\Debug\WinFormAnimation.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Advisor.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Form1.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.GenerateResource.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.Fody.CopyLocal.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.csproj.CopyComplete
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.exe
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE Project\DBPROJECT\obj\Debug\DBPROJECT.pdb
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\DBPROJECT.exe.config
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\DBPROJECT.exe
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\DBPROJECT.pdb
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\Bunifu.UI.WinForms.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\CircularProgressBar.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\Newtonsoft.Json.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\RestSharp.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\bin\Debug\WinFormAnimation.xml
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.AssemblyReference.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.SuggestedBindingRedirects.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Advisor.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Form1.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.GenerateResource.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.CoreCompileInputs.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.Fody.CopyLocal.cache
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.csproj.CopyComplete
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.exe
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\DBPROJECT.pdb
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.EvaluationMarking.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.GroupFormation.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Manage_Projects.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.ManageEvaluation.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.ProjectAssignment.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.Groups.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.ExistingGroupcs.resources
+E:\4 semester\DBMS\DATABASE_MPROJECT\DATABASE_PROJECT\DBPROJECT\obj\Debug\Modern_Dashboard_Design.ProjectAssign.resources
